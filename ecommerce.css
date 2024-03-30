@@ -30,7 +30,7 @@
   .heading ul li a {
     margin: 5px;
     text-decoration: none;
-    color: black;
+    color: #3C8067;
     font-weight: 500;
     position: relative;
     color: white;
@@ -217,7 +217,7 @@
   footer {
     display: flex;
     flex-direction: column;
-    background-color: black;
+    background-color: #3C8067;
     align-items: center;
     color: white;
   }
