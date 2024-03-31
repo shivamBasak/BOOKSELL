@@ -247,7 +247,7 @@
     background-color: #3C8067;
   }
   .social-media a:hover ion-icon {
-    color: red;
+    color: #fc0506;
     transform: translateY(5px);
   }
   .footer2 {
